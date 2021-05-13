@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\hjome\source\repos\LearningWASM\LearningWASMClient\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\hjome\source\repos\LearningWASM\LearningWASMClient\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\hjome\.nuget\packages\radzen.blazor\3.2.7\build\..\staticwebassets\" />
+</StaticWebAssets>
